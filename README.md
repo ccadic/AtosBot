@@ -4,6 +4,8 @@ Petit robot boursier / telegram pour suivre la penny stock ATOS
 
 📊 ATOS Penny Stock - LBB + RSI Signal
 
+<img src="penny.jpg">
+
 🔍 Ce bot surveille en temps réel l'action ATOS (ATO.PA) et envoie des signaux d'achat basés sur des indicateurs techniques clés.
 
 Indicateurs analysés :
